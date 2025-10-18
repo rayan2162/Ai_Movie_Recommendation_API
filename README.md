@@ -24,7 +24,7 @@ When a user submits one or more movie titles they like, the API returns a list o
 Install the necessary dependencies:
 
 ```bash
-pip install fastapi uvicorn pandas scikit-learn
+pip install -r requirements.txt
 
 ```
 
