@@ -1,0 +1,6 @@
+fastapi==0.111.0
+uvicorn==0.27.1
+pandas==2.2.2
+scikit-learn==1.5.0
+numpy==1.26.4
+python-multipart==0.0.9  # Needed if you handle form data (optional but often used)
