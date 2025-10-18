@@ -143,9 +143,10 @@ Recommends similar movies based on the input list of liked movies.
 ```txt
 ai-movie-recommendation-api/
 │
-├── main.py           # FastAPI application
-├── movies.csv        # Dataset of movies with titles and genres
-└── README.md         # Project documentation (this file)
+├── main.py             # FastAPI application
+├── movies.csv          # Dataset of movies with titles and genres
+├── recomendations.txt  # All necessary packages list needed for this project
+└── README.md           # Project documentation (this file)
 ```
 
 ---
